@@ -2,7 +2,7 @@
 
 # Pugixml
 if [ ! -d lib/pugixml ] ; then
-    git clone https://github.com/zeux/pugixml.git lib/pugixml
+    git clone https://github.com/neoxai/pugixml.git lib/pugixml
     pushd lib/pugixml
     git checkout latest
     popd
